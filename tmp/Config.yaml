@@ -1,11 +1,11 @@
 RabbitToken:                                         # 机器人给的token
-MaxTab: 10                                           # 同时登陆的人数
+MaxTab: 20                                           # 同时登陆的人数
 CloseTime: 180                                       # 页面回收时间
 username: admin                                      # 管理员的username
 password: admin                                      # 管理员密码
-Title: Faker Rabbit                                  # 标题
+Title: Stone Bot                                     # 标题
 mode: 2                                              # 模式
-ServerHost: log.madrabbit.eu.org                       # 中心服务器host
+ServerHost: mr.5gyh.com                              # 中心服务器host
 BotApiToken:                                         # 对接机器人的认证token
 WskeyCron: ''                                        # wskey的转换定时
 SyncCkCron:                                          # 同步ck的定时
