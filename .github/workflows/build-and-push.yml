@@ -26,5 +26,5 @@ jobs:
 
       - name: Build and push Docker images
         run: |
-          docker buildx build --platform linux/amd64,linux/arm64 -t yanyuwangluo/qrbbitpro:latest .
-          docker buildx build --platform linux/amd64,linux/arm64 -t yanyuwangluo/qrbbitpro:latest --push .
+          docker buildx build --platform linux/amd64,linux/arm64 -t s71557/rabbitpro:latest .
+          docker buildx build --platform linux/amd64,linux/arm64 -t s71557/rabbitpro:latest --push .
